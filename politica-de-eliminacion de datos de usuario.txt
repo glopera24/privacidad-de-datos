@@ -1,0 +1,6 @@
+¿Qué pasa con los datos de la aplicación en el pasado?
+Los datos de la aplicación en el pasado se eliminan completamente.
+¿Qué pasa con los datos de la aplicación en el presente?
+Los datos de la aplicación en el presente se eliminan completamente.
+¿Qué pasa con los datos de la aplicación en el futuro?
+En el futuro, la aplicación PostBot puede cambiar su política de eliminación de datos de usuario. Si hay cambios significativos en esta política, te notificaremos a través de la aplicación.rda que es importante revisar y actualizar esta política de privacidad regularmente para asegurarte de que sea clara y concisa.
