@@ -1,0 +1,24 @@
+Política de privacidad de la aplicación PostBotIntroducción
+La presente política de privacidad se aplica a la aplicación PostBot, una aplicación desarrollada por [Tu nombre o empresa]. Esta política de privacidad describe cómo recopilamos, utilizamos y protegemos tus datos personales cuando utilizas nuestra aplicación.Recopilación de datos
+La aplicación PostBot recopila los siguientes datos personales:
+* Información de inicio de sesión: Cuando te registras en la aplicación, proporcionas información de inicio de sesión, como tu nombre de usuario y contraseña.
+* Información de perfil: Cuando creas un perfil en la aplicación, proporcionas información como tu nombre, correo electrónico y fecha de nacimiento.
+* Historial de actividad: La aplicación recopila información sobre tus actividades en la aplicación, como los posts que compartes y los comentarios que escribes.
+Uso de datos
+La aplicación PostBot utiliza tus datos personales para los siguientes propósitos:
+* Autenticación: Utilizamos tus datos de inicio de sesión para autenticarte en la aplicación.
+* Personalización: Utilizamos tus datos de perfil para personalizar tu experiencia en la aplicación.
+* Análisis: Utilizamos tus datos de actividad para analizar y mejorar la aplicación.
+Protección de datos
+La aplicación PostBot toma medidas para proteger tus datos personales de manera segura:
+* Cifrado: Los datos que se envían a través de la aplicación se cifran para protegerlos de la interceptación y acceso no autorizados.
+* Seguridad: La aplicación utiliza medidas de seguridad para proteger tus datos personales de manera efectiva.
+Acceso y eliminación de datos
+Puedes acceder y eliminar tus datos personales en cualquier momento:
+* Acceso: Puedes acceder a tus datos personales en la sección de perfil de la aplicación.
+* Eliminación: Puedes eliminar tus datos personales en la sección de perfil de la aplicación.
+Notificaciones
+La aplicación PostBot puede enviarte notificaciones para informarte sobre actualizaciones, cambios en la aplicación y otros eventos importantes.Cambio de política de privacidad
+La aplicación PostBot puede cambiar esta política de privacidad en cualquier momento. Si hay cambios significativos en esta política de privacidad, te notificaremos a través de la aplicación.Contacto
+Si tienes alguna pregunta o inquietud sobre esta política de privacidad, puedes contactarnos a través de [Tu correo electrónico o dirección de la empresa].Aceptación
+Al utilizar la aplicación PostBot, aceptas esta política de privacidad y los términos de uso de la aplicación.
